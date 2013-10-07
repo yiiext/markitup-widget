@@ -1,7 +1,7 @@
 Markitup widget
 ===============
 
-Adds [markItUp](http://markitup.jaysalvat.com/) widget as a form field widget.
+Adds [markItUp](http://markitup.jaysalvat.com/) widget (v. 1.1.14) as a form field widget.
 
 
 Installation
