@@ -4,7 +4,7 @@
  *
  * @author creocoder <creocoder@gmail.com>
  * @license http://www.opensource.org/licenses/bsd-license.php
- * @version 1.1
+ * @version 1.1.1
  * @package yiiext.widgets.markitup
  * @link http://code.google.com/p/yiiext/
  * @link http://markitup.jaysalvat.com/
