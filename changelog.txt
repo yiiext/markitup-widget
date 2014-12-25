@@ -1,6 +1,10 @@
+1.1.1
+---
+- Updated markItUp to 1.1.14 (Giovanni Derks)
+
 1.1
 ---
-- Add minified js (Veaceslav Medvedev) 
+- Add minified js (Veaceslav Medvedev)
 
 1.0
 ---

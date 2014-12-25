@@ -1,7 +1,7 @@
 Markitup widget
 ===============
 
-Позволяет использовать [markItUp](http://markitup.jaysalvat.com/) как виджет формы.
+Позволяет использовать [markItUp](http://markitup.jaysalvat.com/) (v. 1.1.14) как виджет формы.
 
 
 Установка
